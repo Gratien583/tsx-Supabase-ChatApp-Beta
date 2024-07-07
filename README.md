@@ -35,7 +35,7 @@ CREATE TABLE messages (
 
 ## Supabase設定
 
-このプロジェクトを動作させるには、`supabaseClient.ts`に自分のSupabaseプロジェクトのURLとキーを設定する。
+動作させるには、`supabaseClient.ts`に自分のSupabaseプロジェクトのURLとキーを設定する。
 
 1. Supabaseのプロジェクトを作成し、URLとAPIキーを取得する。
 2. `supabaseClient.ts`ファイルを開き、以下のコードスニペットの`SUPABASE_URL`と`SUPABASE_KEY`を自分のプロジェクトの値に置き換える。
