@@ -6,6 +6,10 @@
 ![AsyncStorage](https://img.shields.io/badge/AsyncStorage-404D59?style=for-the-badge&logo=react&logoColor=white)
 ![Day.js](https://img.shields.io/badge/Day.js-292A2D?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
+
+### JPN .md
+https://zenn.dev/gratien583/articles/574f30e14e78cd
+
 ### Username Input Screen
 <img src="https://github.com/Gratien583/tsx-Supabase-ChatApp/assets/167043636/b2943c4b-acf2-41de-ab39-ef9b9b90722d" alt="Username Input Screen" width="300">
 
